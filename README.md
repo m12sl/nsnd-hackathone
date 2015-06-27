@@ -16,5 +16,5 @@
 ### Status
 
 В процессе перехода на d3js/Google Maps.
-По всем вопросам можно писать на `ozerin@phystech.edu`
+По всем вопросам обращаться на `ozerin@phystech.edu`
 

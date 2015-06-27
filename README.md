@@ -7,6 +7,9 @@
 Идея: сравним положение дорожек с тем что надо (со Стравой, да).
 
 
+
+[Презентация на Гуглодоках](https://docs.google.com/presentation/d/1sMfwefSezHeguwtcekM0oLgd7-gkUubOYQEdLzUcX6s/edit?usp=sharing)
+
 ### Instructions
 
 Запустить `ipython notebook`, зайти в `Prepare data.ipynb`, там предобработка данных с data.gov.ru
